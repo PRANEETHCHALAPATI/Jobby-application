@@ -1,0 +1,40 @@
+/* components/Filters/index.css */
+.filters-container {
+  color: #ffffff;
+}
+
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.filter-heading {
+  font-size: 18px;
+  margin-bottom: 15px;
+  letter-spacing:1px;
+  font-weight:400;
+  font-style:italic;
+}
+
+.filters-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filter-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.filter-input {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.filter-label {
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing:1px;
+  color: #cbd5e1;
+  font-weight:400;
+}
