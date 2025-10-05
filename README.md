@@ -414,4 +414,4 @@ Returns a response containing the job details
 - Roboto
 </details>
 
--Built with ❤️ using React and modern web technologies
+- Built with ❤️ using React and modern web technologies
